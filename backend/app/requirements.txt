@@ -1,0 +1,40 @@
+
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+
+# Config & Environment
+pydantic
+pydantic-settings
+python-dotenv
+
+
+# PDF Processing
+PyMuPDF
+
+
+# RAG + LLM
+langchain
+langchain-community
+
+
+# Vector Database
+pinecone
+
+
+# LLM(Groq)
+groq
+
+# Requests
+requests
+
+
+# Utilities
+tiktoken
+numpy
+
+
+# Testing 
+pytest
